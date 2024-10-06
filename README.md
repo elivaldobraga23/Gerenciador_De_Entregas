@@ -20,7 +20,3 @@ Além disso, o sistema gera relatórios em arquivos e possibilita o envio de men
 
 
 Este projeto foi desenvolvido para facilitar o gerenciamento de entregas no meu trabalho.
-
-```
-
-Sinta-se à vontade para personalizar ainda mais o README com informações adicionais, como exemplos de uso ou seções específicas que você gostaria de adicionar.
